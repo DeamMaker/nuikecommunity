@@ -1,4 +1,4 @@
-package com.example.niukecommunity;
+package com.example.niukecommunity.testDemo;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
